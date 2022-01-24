@@ -8,7 +8,7 @@ Methodology 1/24/22:
   3) Feed the model randomly selected sentences and collect the output.
   
 To-do: 
-      Ensure GPT-3 does not overfit and give us a sentence from the author verbatim.
-      Strip new lines '\n'.
-      Guarentee that GPT-3 returns a full sentence.
-      Attempt to make the outputs larger - difficult with tokens constraint.
+      -Ensure GPT-3 does not overfit and give us a sentence from the author verbatim.
+      -Strip new lines '\n'.
+      -Guarentee that GPT-3 returns a full sentence.
+      -Attempt to make the outputs larger - difficult with tokens constraint.
