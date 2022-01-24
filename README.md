@@ -11,4 +11,4 @@ TODO
       -Ensure GPT-3 does not overfit and give us a sentence from the author verbatim.
       -Strip new lines '\n'.
       -Guarentee that GPT-3 returns a full sentence.
-      -Attempt to make the outputs larger - difficult with tokens constraint.
+      -Attempt to make the outputs larger (difficult with tokens constraint).
