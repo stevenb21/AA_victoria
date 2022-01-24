@@ -6,8 +6,8 @@ Methodology 1/24/22:
   1) Tokenize the author's bibliography into sentences. 
   2) Fine-tune a model to take in a randomly selected sentence and output the next sentence.
   3) Feed the model randomly selected sentences and collect the output.
-  
-To-do: 
+
+TODO
       -Ensure GPT-3 does not overfit and give us a sentence from the author verbatim.
       -Strip new lines '\n'.
       -Guarentee that GPT-3 returns a full sentence.
